@@ -1,2 +1,24 @@
 # DEBER-6
 DEBER 6
+
+UNIVERSIDAD DE LAS FUERZAS ARMADAS 
+
+NRC: 10069
+
+CIRCUITOS ELÉCTRICOS
+
+TEMA:
+
+TAREA 6 CAPÍTULOS 11 Y 12
+
+PAMELA MONTATIXE
+
+
+MARCO TEÓRICO
+
+![1](https://user-images.githubusercontent.com/116780506/213326771-d911eb81-3103-419f-8bb9-fd9d4d42459b.png)
+
+
+![Uploading 2.png…]()
+
+
