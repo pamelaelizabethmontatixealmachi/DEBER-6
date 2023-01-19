@@ -19,6 +19,8 @@ MARCO TEÓRICO
 ![1](https://user-images.githubusercontent.com/116780506/213326771-d911eb81-3103-419f-8bb9-fd9d4d42459b.png)
 
 
-![Uploading 2.png…]()
+![2](https://user-images.githubusercontent.com/116780506/213326882-43d0aa20-2a24-4cfe-bf68-8cb577cf49cd.png)
+
+
 
 
