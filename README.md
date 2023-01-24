@@ -12,7 +12,16 @@ TEMA:
 TAREA 6 CAPÍTULOS 11 Y 12
 
 PAMELA MONTATIXE
+ 
+ 
+ OBJETIVOS:
+ 
+ Analizar tanto capacitores en paralelo como en serie en un circuito de CD y CA.
 
+Estudiar la operación de circuitos conmutados por un capacitor.
+
+Estudiar los diversos tipos de capacitores.
+  
 
 MARCO TEÓRICO
 
@@ -98,6 +107,26 @@ EJERCICIOS
 
 
 
+![image](https://user-images.githubusercontent.com/116780506/214349143-bb38c744-cd0b-4859-abde-5a8f2e74b962.png)
 
+
+![image](https://user-images.githubusercontent.com/116780506/214349232-0f741b74-8730-49f6-9c40-52ca274a3fcb.png)
+
+
+CONCLUSIONES:
+
+
+El capacitor es un dispositivo eléctrico que puede guardar carga eléctrica, con lo cual crea un campo eléctrico que, a su vez, guarda energía.
+
+La corriente alterna, una de las razones es el fácil transporte de grandes cantidades de energía entre puntos distantes.
+
+
+VIDEO:
+
+
+
+BIBLIOGRAFÍA
+
+FLOYD, THOMAS L. (2007). Principios de circuitos eléctricos. Octava edición PEARSON EDUCACIÓN.
 
 
