@@ -124,6 +124,8 @@ La corriente alterna, una de las razones es el fácil transporte de grandes cant
 VIDEO:
 
 
+https://drive.google.com/file/d/19lpACqSrNWyzh4-B9holDQhocsQjo9FA/view?usp=sharing
+
 
 BIBLIOGRAFÍA
 
