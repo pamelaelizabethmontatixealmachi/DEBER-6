@@ -97,7 +97,6 @@ EJERCICIOS
 ![image](https://user-images.githubusercontent.com/116780506/214219854-35b489b2-3e6b-4256-9a06-3f45ed5ea578.png)
 
 
-![Uploading image.png…]()
 
 
 
